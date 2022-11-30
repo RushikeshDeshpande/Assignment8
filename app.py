@@ -5,8 +5,8 @@ import streamlit as st
 def main():
   st.title("Multiplication")
   html_temp = """
-  <div style="background-color:tomato;padding:10px">
-  <h2 style="color:white;text-align:center;">Subtraction of 2 numbers using Streamlit</h2>
+  <div style="background-color:blue;padding:10px">
+  <h2 style="color:white;text-align:center;">Multiplication of 2 numbers using Streamlit</h2>
   </div>
   """
   st.markdown(html_temp,unsafe_allow_html=True)
