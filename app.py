@@ -5,7 +5,7 @@ import streamlit as st
 def main():
   st.title("Multiplication")
   html_temp = """
-  <div style="background-color:blue;padding:10px">
+  <div style="background-color:skyblue;padding:10px">
   <h2 style="color:white;text-align:center;">Multiplication of 2 numbers using Streamlit</h2>
   </div>
   """
